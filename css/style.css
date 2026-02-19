@@ -508,7 +508,7 @@ a:hover {
 
 .card-text {
   font-size: 13px;
-  color: var(--text-light);
+  color: #000;
   line-height: 1.7;
 }
 
@@ -830,6 +830,7 @@ a:hover {
   }
 
   .fill-block {
+  
     break-inside: avoid;
     border-style: solid;
   }
